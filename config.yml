@@ -1,0 +1,10 @@
+lesson:
+  name: If This Then That
+  icon: python
+stack:
+  id: bd50116de28d9714160e257406bb9dd9cebd8bb7cd5b836fd92fdf5546b9c5ca
+interface:
+  layout: horizontal
+  theme: dark
+  terminal:
+    enabled: true

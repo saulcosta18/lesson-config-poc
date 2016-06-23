@@ -1,0 +1,4 @@
+test1:
+  runner: py-unit-tests
+  file: test1.py
+  weight: 10
