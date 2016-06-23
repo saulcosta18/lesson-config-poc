@@ -1,3 +1,5 @@
+# Making Decisions
+
 Sometimes there are multiple paths a program can take. But you don't want to have to tell your program what to do each time it needs to make a decision!
 
 To automate this process, we use **conditionals**, like the `if` statement. `if` allows you to check that something is `True`, and "if" it is, it does something. Try putting the following code in your program:
